@@ -1,0 +1,27 @@
+{
+  "name": "guitar-pedalboard-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andres-lh/guitar-pedalboard-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andres-lh/guitar-pedalboard-js/issues"
+  },
+  "homepage": "https://github.com/Andres-lh/guitar-pedalboard-js#readme",
+  "dependencies": {
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
